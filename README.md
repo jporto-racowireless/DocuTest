@@ -10,8 +10,8 @@
 
 
 [Subpage](/FolderTest/subpage.md)
-[Subpage2](/FolderTest/subpage1.md)
-[Subpage1](/FolderTest/Folder1/subpage.md)
+[Subpage2](/FolderTest/subpage.1.md)
+[Subpage1](/FolderTest/subpage.md)
 
 
 
